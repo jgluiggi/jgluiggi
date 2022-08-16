@@ -13,3 +13,5 @@ I'm pretty fond of things that run fast and anything that looks dated on purpose
 #### ⚡ Fun fact:
 * Big time anime/metal enthusiast;
 * Hoping to get at least 10% of my ideas into the real world.
+
+I use [Arch](https://archlinux.org/) by the way. 🤓
