@@ -10,7 +10,7 @@ I'm pretty fond of things that run fast and anything that looks dated on purpose
 #### 🌱 I’m currently learning:
 * Go, C, React and general web development.
 
-#### ⚡ Fun fact:
+#### ⚡ Fun facts:
 * Big time anime/metal enthusiast;
 * Hoping to get at least 10% of my ideas into the real world.
 
