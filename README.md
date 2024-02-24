@@ -8,7 +8,7 @@ I'm pretty fond of things that run fast and anything that looks dated on purpose
 * Getting my CompSci degree.
 
 #### 🌱 I’m currently learning:
-* Go, C, React and general web development.
+* DevOps, being a SysAdmin and CyberSecurity.
 
 #### ⚡ Fun facts:
 * Big time anime/metal enthusiast;
